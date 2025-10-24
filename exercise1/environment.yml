@@ -1,0 +1,9 @@
+name: ml-exercise
+dependencies:
+  - python=3.11
+  - notebook
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - gensim
