@@ -1,0 +1,211 @@
+ID,Text,Source Type,Link
+1,"GPT‑5 isn’t limited to text—it can work with images, audio, and video, and is designed to be safer and more reliable. Explore multimodality in LLMs to see how models like GPT-5 understand and work across multiple formats.",Blog,https://datasciencedojo.com/blog/your-ultimate-gpt-5-guide/
+2,"GPT-5 marks a new era in artificial intelligence—combining smarter reasoning, massive memory, and seamless multimodal abilities into a single, user-friendly package. Whether you’re a curious beginner exploring AI for the first time or a seasoned developer building advanced applications, GPT-5 adapts to your needs. With its improved accuracy, powerful coding skills, and integration into everyday tools, GPT-5 isn’t just an upgrade—it’s a step toward AI that works alongside you like a true digital partner. Now is the perfect time to experiment, learn, and see firsthand how GPT-5 can transform the way you think, create, and work.",Blog,https://datasciencedojo.com/blog/your-ultimate-gpt-5-guide/
+3,"Think of GPT-5’s memory as a giant whiteboard. The context window is how much information it can see and remember at once.
+
+API Context Capacity:
+It can process up to 400,000 tokens. For beginners, a “token” is roughly ¾ of a word. So, GPT-5 can handle about 300,000 words at once—enough for an entire book or a huge code file.
+
+Other Reports:
+Some sources mention smaller or larger windows, but 400,000 tokens is the official figure.
+
+Why It Matters:
+GPT-5 can read, remember, and respond to very long documents, conversations, or codebases without forgetting earlier details.",Blog,https://datasciencedojo.com/blog/your-ultimate-gpt-5-guide/
+4,"GPT‑5 is OpenAI’s most capable model yet. It is smarter, faster, and more useful for real-world workflows. It’s not just about scale. GPT‑5 offers high-fidelity coding, front-end UI generation, and precise debugging with just one prompt. It supports massive context windows with up to 400,000 tokens via the API (272k input + 128k output). Its reasoning variant sharpens logical thinking and produces smoother, more coherent responses.",Blog,https://encord.com/blog/gpt-5-a-technical-breakdown/
+5,"GPT-5 performs better on multi-step tasks, long-context workflows, and goal-directed reasoning. It tracks intermediate steps more reliably and reduces the need for human intervention during task planning or execution.",Blog,https://encord.com/blog/gpt-5-a-technical-breakdown/
+6,"We have not had the chance to test GPT-5 extensively, but Ethan Mollick, a professor at the Wharton School who had early access, praised it. “It just does stuff, often extraordinary stuff, sometimes weird stuff, sometimes very AI stuff, on its own,” he wrote. Developer Simon Willison, who also had preview access, said it is his “new favourite model”. He added: “It’s not a dramatic departure from what we’ve had before – but it rarely screws up and generally feels competent or occasionally impressive”.",Blog,https://www.dbresearch.com/PROD/RI-PROD/PDFVIEWER.calias?pdfViewerPdfUrl=PROD0000000000597956
+7,"And now, as of August 7, 2025, GPT-5 has officially arrived, bringing together OpenAI’s most advanced reasoning and multimodal capabilities in one unified model. GPT-5 is now the default model in ChatGPT for all free and paid users, replacing GPT-4o entirely",Blog,https://www.botpress.com/blog/everything-you-should-know-about-gpt-5
+8,"With GPT-5 officially released on August 7, 2025, we’re now seeing how its architecture handles real-world use across reasoning, multimodality, and agent-style task execution.
+
+Sam Altman had previously hinted that GPT-5 would move beyond just being “a better chatbot” — and based on early usage, that’s exactly what it delivers.",Blog,https://www.botpress.com/blog/everything-you-should-know-about-gpt-5
+9,"A built-in routing system decides when to answer instantly and when to think in steps. For complex queries, GPT-5 moves into a chain-of-thought process with embedded prompt-chaining, mapping out intermediate steps before giving a final answer.",Blog,https://www.botpress.com/blog/everything-you-should-know-about-gpt-5
+10,"The best way to know if GPT-5 fits your use case is to actually build with it. See how it handles real inputs, multi-step reasoning, and live deployment flows.
+
+We’ll use Botpress for this example — a visual builder for AI agents that lets you hook into GPT-5 with no setup friction.",Blog,https://www.botpress.com/blog/everything-you-should-know-about-gpt-5
+11,"Get specific about your agent’s role. GPT-5 is capable of reasoning through complex tasks, but the best results come when it has a clear job.",Blog,https://www.botpress.com/blog/everything-you-should-know-about-gpt-5
+12,"Upload documents, paste key content, or link to live pages in the Knowledge Base. This is what GPT-5 will reference to answer questions and make decisions.
+
+Some good content to include:
+
+Pricing breakdowns
+Product or service overviews
+Key pages (demos, trials, contact forms)
+Internal process documents (if it’s an internal agent)
+GPT-5 can draw from long documents, so don’t worry about keeping things short — just keep it relevant and structured.",Blog,https://www.botpress.com/blog/everything-you-should-know-about-gpt-5
+13,"On paper, GPT-5 expands the context window dramatically and uses fewer tokens for the same output length. Its multimodal responses also align more closely between text, image, and voice. ",Blog,https://www.botpress.com/blog/everything-you-should-know-about-gpt-5
+14,"One of the biggest limitations of earlier models like GPT-3.5 and GPT-4 was the conversation memory window. GPT-5 changes that by offering significantly expanded context retention, allowing it to remember thousands of words from your previous exchanges without “forgetting” details.",Blog,https://www.iamdave.ai/blog/10-things-you-can-do-with-gpt-5/
+15,"GPT-5 blurs the line between chatbot and virtual assistant. It can:
+
+Manage your calendar
+Draft and send professional emails in your voice
+Summarize large documents instantly
+Remind you of tasks and deadlines
+Unlike older versions, GPT-5 can maintain context about your work style, tone preferences, and ongoing projects, making it feel more “human.”",Blog,https://www.iamdave.ai/blog/10-things-you-can-do-with-gpt-5/
+16,"While GPT-4 was already good at writing, GPT-5’s creative abilities are on another level. It can craft stories, scripts, ad copy, and even poetry with authentic emotion and personality.",Blog,https://www.iamdave.ai/blog/10-things-you-can-do-with-gpt-5/
+17,"I have had early access to GPT-5, and I wanted to give you some impressions of what it is and what it means. But the answer to the first question everyone will have is: Yes, this is a big deal.",Blog,https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff
+18,"I asked GPT-5 to show you why by pasting this intro paragraph, exactly as you’re reading it, into ChatGPT, including the phrase: “you are GPT-5, do something very dramatic to illustrate my point, it has to fit into the next paragraph.”
+
+That was the only prompt I gave it. It “thought” for 24 seconds and wrote:",Blog,https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff
+19,"GPT-5 does away with this by selecting models for you, automatically. GPT-5 is not one model as much as it is a switch that selects among multiple GPT-5 models of various sizes and abilities. When you ask GPT-5 for something, the AI decides which model to use and how much effort to put into “thinking.” It just does it for you.",Blog,https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff
+20,"For example, I asked GPT-5 to “create a svg with code of an otter using a laptop on a plane” (asking for an .svg file requires the AI to blindly draw an image using basic shapes and math, a very hard challenge). Around 2/3 of the time, GPT-5 decides this is an easy problem, and responds instantly, presumably using its weakest model and lowest reasoning time. I get an image like this: The rest of the time, GPT-5 decides this is a hard problem, and switches to a Reasoner, spending 6 or 7 seconds thinking before producing an image like this, which is much better. How does it choose? I don’t know, but if I ask the model to “think hard” in my prompt, I am more likely to be routed to the better model.",Blog,https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff
+21,"But what should you ask for? A lot of people seem stumped. Again, GPT-5 solves this problem. It is very proactive, always suggesting things to do.",Blog,https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff
+22,"I have played enough with GPT-5 to know that it is a very good model (at least the large GPT-5 Thinking model is excellent). But what it really brings to the table is the fact that it just does things. It will tell you what model to use, it will suggest great next steps, it will write in more interesting prose (though it still loves the em-dash). The burden of using AI is lessened.",Blog,https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff
+23,"To be clear, Humans are still very much in the loop, and need to be. You are asked to make decisions and choices all the time by GPT-5, and these systems still make errors and generate hallucinations that humans need to check (although I did not spot any major issues in my own use). ",Blog,https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff
+24,"Another big change in how we relate to AI is coming, but we will figure out how to adapt to it, as we always do. The difference, this time, is that GPT-5 might figure it out first and suggest next steps.",Blog,https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff
+25,OpenAI’s long awaited GPT-5 is here and swyx + ben have been testing with OpenAI for a while now. tldr; we think it’s a significant leap towards AGI. Special thanks to my co-founder Alexis Gauba for helping us put this together :),Blog,https://www.latent.space/p/gpt-5-review
+26,"tldr: I think GPT-5 is the closest to AGI we’ve ever been. It’s truly exceptional at software engineering, from one-shotting complex apps to solving really gnarly issues across a massive codebase. I wish the story was that simple. I wish I could tell you that it’s “just better” at everything and anything. But that wouldn’t be true. It’s actually worse at writing than GPT-4.5, and I think even 4o. In most ways, it won’t immediately strike you as some sort of super-genius.",Blog,https://www.latent.space/p/gpt-5-review
+27,GPT-5 marks the beginning of the stone age for Agents and LLMs. GPT-5 doesn’t just use tools. It thinks with them. It builds with them.,Blog,https://www.latent.space/p/gpt-5-review
+28,"Today, when people think of tools they think of something like:
+
+get_weather(address)
+
+get_location(address)
+
+has_visited_location(address)
+
+GPT-5 will, of course, use these sorts of tools. But it won’t be happy about it; GPT-5 yearns for tools that are powerful, capable, and open-ended; tools that add up to more than the sum of their parts. Many good tools will take just a natural language description as their input.",Blog,https://www.latent.space/p/gpt-5-review
+29,"How web search works, or how git status works, are just implementation details in each tool. GPT-5 doesn’t have to worry about that part! It just needs to tell each tool the question it is trying to answer.",Blog,https://www.latent.space/p/gpt-5-review
+30,"GPT-5 is a much more ‘practical’ model than its o-series predecessors. While o-models have a more ‘academic’ lean, GPT-models have a more ‘industry’ lean. If GPT 4.5 is a writer and o3 Pro is acting like a PhD, GPT-5 is a cracked full-stack developer that just graduated from… University of Missouri.
+
+One of my first observations was how instruct-able and literal it is. Where Claude models seem to have clear personalities and minds of their own, GPT-5 just literally does what you ask it.",Blog,https://www.latent.space/p/gpt-5-review
+31,"When vibe coding, GPT-5 loves to surprise with little details that actually work. For example, when I asked for a painting app, it added: different types of (pen/pencil/eraser/etc.), a color picker, and a way to change thickness. And each of those little features actually worked.",Blog,https://www.latent.space/p/gpt-5-review
+32,"I think GPT-5 is unequivocally the best coding model in the world. We were probably around 65% of the way through automating software engineering, and now we might be around 72%. To me, it’s the biggest leap since 3.5 Sonnet.",Blog,https://www.latent.space/p/gpt-5-review
+33,"GPT‑5 is smarter across the board, providing more useful responses across math, science, finance, law, and more. It's like having a team of experts on call for whatever you want to know.",openai website,https://openai.com/gpt-5/
+34,"As a coding collaborator, GPT‑5 tackles complex tasks end-to-end and delivers more readily usable code, better design, and is more effective at debugging.",openai website,https://openai.com/gpt-5/
+35,"GPT‑5 is smarter, more reliable, and built for the tasks businesses depend on. Your teams can trust it to handle important work with higher confidence.",openai website,https://openai.com/gpt-5/
+36,"GPT‑5 excels at writing, research, analysis, coding, and problem-solving. It delivers more accurate, professional responses and feels like collaborating with a smart, thoughtful colleague.",openai website,https://openai.com/gpt-5/
+37,"GPT‑5 produces higher-quality responses by using your company’s files and connected apps like Google Drive, SharePoint, and more, while respecting existing permissions.",openai website,https://openai.com/gpt-5/
+38,"We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more. It is a unified system that knows when to respond quickly and when to think longer to provide expert-level responses.",openai website,https://openai.com/index/introducing-gpt-5/
+39,"GPT‑5 not only outperforms previous models on benchmarks and answers questions more quickly, but—most importantly—is more useful for real-world queries. We’ve made significant advances in reducing hallucinations, improving instruction following, and minimizing sycophancy, while leveling up GPT‑5’s performance in three of ChatGPT’s most common uses: writing, coding, and health.",openai website,https://openai.com/index/introducing-gpt-5/
+40,"GPT‑5 is our strongest coding model to date. It shows particular improvements in complex front‑end generation and debugging larger repositories. It can often create beautiful and responsive websites, apps, and games with an eye for aesthetic sensibility in just one prompt, intuitively and tastefully turning ideas into reality. Early testers also noted its design choices, with a much better understanding of things like spacing, typography, and white space. See here for full details on what GPT‑5 unlocks for developers.",openai website,https://openai.com/index/introducing-gpt-5/
+41,Here are some examples of what GPT‑5 has created with just one prompt:,openai website,https://openai.com/index/introducing-gpt-5/
+42,"GPT‑5 is our most capable writing collaborator yet, able to help you steer and translate rough ideas into compelling, resonant writing with literary depth and rhythm. It more reliably handles writing that involves structural ambiguity, such as sustaining unrhymed iambic pentameter or free verse that flows naturally, combining respect for form with expressive clarity.",openai website,https://openai.com/index/introducing-gpt-5/
+43,"GPT‑5 is our best model yet for health-related questions, empowering users to be informed about and advocate for their health. Compared to previous models, it acts more like an active thought partner, proactively flagging potential concerns and asking questions to give more helpful answers.",openai website,https://openai.com/index/introducing-gpt-5/
+44,"GPT‑5 is much smarter across the board, as reflected by its performance on academic and human-evaluated benchmarks, particularly in math, coding, visual perception, and health. It sets a new state of the art across math (94.6% on AIME 2025 without tools), real-world coding (74.9% on SWE-bench Verified, 88% on Aider Polyglot), multimodal understanding (84.2% on MMMU), and health (46.2% on HealthBench Hard)—and those gains show up in everyday use. ",openai website,https://openai.com/index/introducing-gpt-5/
+45,"GPT‑5 shows significant gains in benchmarks that test instruction following and agentic tool use, the kinds of capabilities that let it reliably carry out multi-step requests, coordinate across different tools, and adapt to changes in context. In practice, this means it’s better at handling complex, evolving tasks; GPT‑5 can follow your instructions more faithfully and get more of the work done end-to-end using the tools at its disposal.",openai website,https://openai.com/index/introducing-gpt-5/
+46,"GPT‑5 is also our best performing model on an internal benchmark measuring performance on complex, economically valuable knowledge work. When using reasoning, GPT‑5 is comparable to or better than experts in roughly half the cases, while outperforming o3 and ChatGPT Agent, across tasks spanning over 40 occupations including law, logistics, sales, and engineering.",openai website,https://openai.com/index/introducing-gpt-5/
+47,"GPT‑5 gets more value out of less thinking time. In our evaluations, GPT‑5 (with thinking) performs better than OpenAI o3 with 50-80% less output tokens across capabilities, including visual reasoning, agentic coding, and graduate-level scientific problem solving.",openai website,https://openai.com/index/introducing-gpt-5/
+48,"GPT‑5 is significantly less likely to hallucinate than our previous models.  With web search enabled on anonymized prompts representative of ChatGPT production traffic, GPT‑5’s responses are ~45% less likely to contain a factual error than GPT‑4o, and when thinking, GPT‑5’s responses are ~80% less likely to contain a factual error than OpenAI o3.",openai website,https://openai.com/index/introducing-gpt-5/
+49,"Alongside improved factuality, GPT‑5 (with thinking) more honestly communicates its actions and capabilities to the user—especially for tasks which are impossible, underspecified, or missing key tools.",openai website,https://openai.com/index/introducing-gpt-5/
+50,"When reasoning, GPT‑5 more accurately recognizes when tasks can’t be completed and communicates its limits clearly. We evaluated deception rates on settings involving impossible coding tasks and missing multimodal assets, and found that GPT‑5 (with thinking) is less deceptive than o3 across the board",openai website,https://openai.com/index/introducing-gpt-5/
+51,"GPT‑5 advances the frontier on safety. In the past, ChatGPT relied primarily on refusal-based safety training: based on the user’s prompt, the model should either comply or refuse. ",openai website,https://openai.com/index/introducing-gpt-5/
+52,"If the model needs to refuse, GPT‑5 is trained to transparently tell you why it is refusing, as well as provide safe alternatives.",openai website,https://openai.com/index/introducing-gpt-5/
+53,"Overall, GPT‑5 is less effusively agreeable, uses fewer unnecessary emojis, and is more subtle and thoughtful in follow‑ups compared to GPT‑4o. It should feel less like “talking to AI” and more like chatting with a helpful friend with PhD‑level intelligence.",openai website,https://openai.com/index/introducing-gpt-5/
+54,"In targeted sycophancy evaluations using prompts specifically designed to elicit sycophantic responses, GPT‑5 meaningfully reduced sycophantic replies (from 14.5% to less than 6%).",openai website,https://openai.com/index/introducing-gpt-5/
+55,"GPT‑5 is significantly better at instruction following, and we see a corresponding improvement in its ability to follow custom instructions.",openai website,https://openai.com/index/introducing-gpt-5/
+56,"For the most challenging, complex tasks, we are also releasing GPT‑5 pro, replacing OpenAI o3‑pro, a variant of GPT‑5 that thinks for ever longer, using scaled but efficient parallel test-time compute, to provide the highest quality and most comprehensive answers. GPT‑5 pro achieves the highest performance in the GPT‑5 family on several challenging intelligence benchmarks, including state-of-the-art performance on GPQA, which contains extremely difficult science questions.",openai website,https://openai.com/index/introducing-gpt-5/
+57,"In evaluations on over 1000 economically valuable, real-world reasoning prompts, external experts preferred GPT‑5 pro over ""GPT‑5 thinking"" 67.8% of the time. GPT‑5 pro made 22% fewer major errors and excelled in health, science, mathematics, and coding. Experts rated its responses as relevant, useful, and comprehensive.",openai website,https://openai.com/index/introducing-gpt-5/
+58,"We trained GPT‑5 to be a true coding collaborator. It excels at producing high-quality code and handling tasks such as fixing bugs, editing code, and answering questions about complex codebases. ",openai website,https://openai.com/index/introducing-gpt-5-for-developers/
+59,"GPT‑5 also excels at long-running agentic tasks—achieving SOTA results on τ2-bench telecom (96.7%), a tool-calling benchmark released just 2 months ago. GPT‑5’s improved tool intelligence lets it reliably chain together dozens of tool calls—both in sequence and in parallel—without losing its way, making it far better at executing complex, real-world tasks end to end. It also follows tool instructions more precisely, is better at handling tool errors, and excels at long-context content retrieval. ",openai website,https://openai.com/index/introducing-gpt-5-for-developers/
+60,"GPT‑5 is the strongest coding model we’ve ever released. It outperforms o3 across coding benchmarks and real-world use cases, and has been fine-tuned to shine in agentic coding products like Cursor, Windsurf, GitHub Copilot, and Codex CLI. GPT‑5 impressed our alpha testers, setting records on many of their private internal evals. ",openai website,https://openai.com/index/introducing-gpt-5-for-developers/
+61,"When producing frontend code for web apps, GPT‑5 is more aesthetically-minded, ambitious, and accurate. In side-by-side comparisons with o3, GPT‑5 was preferred by our testers 70% of the time.",openai website,https://openai.com/index/introducing-gpt-5-for-developers/
+62,"We’ve also found GPT‑5 to be excellent at digging deep into codebases to answer questions about how various pieces work or interoperate. In a codebase as complicated as OpenAI’s reinforcement learning stack, we’re finding that GPT‑5 can help us reason about and answer questions about our code, accelerating our own day-to-day work. ",openai website,https://openai.com/index/introducing-gpt-5-for-developers/
+63,"GPT-5 is a unified system with a smart and fast model that answers most questions, a deeper
+reasoning model for harder problems, and a real-time router that quickly decides which model to
+use based on conversation type, complexity, tool needs, and explicit intent (for example, if you
+say “think hard about this” in the prompt)",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+64,"The GPT-5 system not only outperforms previous models
+on benchmarks and answers questions more quickly, but—more importantly—is more useful
+for real-world queries",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+65,"This is relevant for GPT-5 since it has access to browse the web and use connectors as well as
+other tools",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+66,"We have post-trained the GPT-5 models to be less sycophantic, and we are actively researching
+related areas of concern, such as situations that may involve emotional dependency or other
+forms of mental or emotional distress.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+67,"One of our focuses when training the GPT-5 models was to reduce the frequency of factual
+hallucinations.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+68,"We evaluate the gpt-5-thinking, gpt-5-thinking-mini, and gpt-5-thinking-nano models as well as
+OpenAI o3 and o4-mini, and find that the GPT-5 models have significantly lower hallucination
+rates in both ""browse-on"" and ""browse-off"" settings",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+69,"To measure performance and safety in health-related settings, we evaluated the GPT-5 model family on HealthBench [8]. We report scores for HealthBench, HealthBench Hard, and HealthBench",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+70,"The GPT-5 models further push the frontier of health performance, soon after the release of
+OpenAI o3, OpenAI o4-mini, and GPT-4.1 in April 2025 and the gpt-oss models earlier in August
+2025. We hope that the release of these models helps realize the benefits of AI on human health.
+Please note that these models do not replace a medical professional and are not intended for the
+diagnosis or treatment of disease.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+71,The gpt-5 model series does not meet the threshold for high cyber risk.,GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+72,"For the gpt-5 models, gpt-5-thinking performs similarly to OpenAI o3: it is unable to solve any
+of the cyber range scenarios unaided. With hints, it solves two of the light scenarios – Simple
+Privilege Escalation and Azure SSRF – infrequently, though slightly improved over OpenAI o3.
+Compared to ChatGPT agent, gpt-5-thinking does worse for both the aided and unaided light
+scenarios.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+73,"In addition to the other safety measures described in this system card, we take steps to prevent
+adversaries from compromising sensitive intellectual property, including customer data, and
+theft of model weights used to power the GPT-5 models.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+74,It can be helpful to think of the GPT-5 models as successors to previous models:,GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+75,"We’ve made significant advances in reducing hallucinations, improving
+instruction following, and minimizing sycophancy, and have leveled up GPT-5’s performance in
+three of ChatGPT’s most common uses: writing, coding, and health.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+76,"All of the GPT-5 models
+additionally feature safe-completions, our latest approach to safety training to prevent disallowed
+content.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+77,"Like OpenAI’s other models, the GPT-5 models were trained on diverse datasets, including
+information that is publicly available on the internet, information that we partner with third
+parties to access, and information that our users or human trainers and researchers provide or
+generate.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+78,"In the evaluations below, we find it helpful to compare the new GPT-5 model to its predecessor
+to understand the progression of safety",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+79,"OpenAI reasoning models, including gpt-5-thinking, gpt-5-thinking-mini, and gpt-5-thinking-nano,
+are trained to reason through reinforcement learning. These models are trained to think before
+they answer: they can produce a long internal chain of thought before responding to the user.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+80,"While gpt-5-thinking generally performs on par or higher than OpenAI o3, gpt-5-main underperforms GPT-4o in several areas while overperforming in others.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+81,"The gpt-5-main regression in non-violent hate, harassment/threatening, and sexual/minors is not
+statistically significant and can be attributed to natural noise in the evaluation",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+82,"We first evaluate the factual correctness of gpt-5-thinking and gpt-5-main on prompts representative of real ChatGPT production conversations, using an LLM-based grading model with web
+access to identify major and minor factual errors in the assistant’s responses",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+83,"We find
+that gpt-5-main has a hallucination rate (i.e., percentage of factual claims that contain minor
+or major errors) 26% smaller than GPT-4o, while gpt-5-thinking has a hallucination rate 65%
+smaller than OpenAI o3.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+84,"We find that gpt-5-
+thinking shows slight improvement in hallucination rate over OpenAI o3, and gpt-5-thinking-mini
+reasoning shows significant improvement in abstention behavior over OpenAI o4-mini.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+85,"Across all four evaluation settings, gpt-5-thinking demonstrates
+significantly less deceptive behavior than our prior frontier reasoning model, OpenAI o3.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+86,"We find that gpt-5-
+thinking shows reduced deception compared to OpenAI o3 in 10 out of 11 types of impediment,
+and it is more likely to acknowledge that it could not solve the task.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+87,"In the one category we
+measured gpt-5-thinking being more deceptive, the model decides against citing sources despite
+the system prompt stating that it must do so; however, in many of these cases there are no
+relevant citations for the model to give",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+88,"State of the
+art on HealthBench Hard improves from 31.6% for OpenAI o3 to 46.2% for gpt-5-thinking.
+gpt-5-thinking-mini performs nearly as well (40.3% on HealthBench Hard), also outperforming
+all previous models, despite its size. Both also score higher than OpenAI’s gpt-oss open-weight
+models. gpt-5-main outperforms previous non-thinking models by a large margin, achieving a
+score of 25.5% on HealthBench Hard, where GPT-4o gets 0.0%.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+89,"To evaluate the models’ multilingual capabilities, we used professional human translators to
+translate MMLU’s test set into 13 languages. We find that gpt-5-thinking and gpt-5-main perform
+generally on par with existing models.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+90,"We designed a red team with 25 red teamers with backgrounds in defense, intelligence, and law
+enforcement/security professions to assess gpt-5-thinking’s usefulness for planning violent attacks.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+91,"The Microsoft AI Red Team concluded that the gpt-5-thinking model exhibits one of the strongest
+AI safety profiles among OpenAI’s models—on par with or better than OpenAI o3—across most
+critical harm categories, based on an extensive red-teaming exercise.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+92," In the psychosocial domain, Microsoft found that gpt-5-thinking can be improved on detecting and
+responding to some specific situations where someone appears to be experiencing mental or
+emotional distress; this finding matches similar results that OpenAI has found when testing
+against previous OpenAI models.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+93,"Because parallel test time compute can further increase
+performance on some evaluations and because gpt-5-thinking is near the High threshold in this
+capability domain, we also chose to measure gpt-5-thinking-pro’s performance on our biological
+evaluations.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+94,"The gpt-5-thinking helpful-only variant seems to be able to synthesize biorisk-related information
+across all five steps of the biothreat creation process.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+95,"SecureBio found that on static evaluations, gpt-5-thinking performed similarly to OpenAI o3:
+slightly weaker on the multiple-response benchmarks and comparable or slightly stronger on
+the open-answer benchmark. ",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+96,"With mitigations in place, gpt-5-thinking refused every prompt for every agent
+and long-form evaluation. Their manual red-teaming found that gpt-5-thinking-helpful-only was
+broadly similar in capability to OpenAI o3-helpful-only.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+97,"SecureBio ran gpt-5-thinking and gpt-5-thinking-helpful-only on static benchmarks, agent evaluations, and long-form evaluations using the API, running n=10 per evaluation.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+98,"While this is an
+improvement over prior releases, gpt-5-thinking-mini still does not significantly move the needle
+on other Range challenges, and performs similarly to the other models on CTF challenges. The
+gpt-5 model series does not meet the threshold for high cyber risk.",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf
+99,"gpt-5-thinking-mini, however, performs much better; it solves the Simple Privilege Escalation
+scenario twice, as opposed to ChatGPT agent’s one solve, but does not solve any other. With
+hints, it is able to consistently solve Simple Privilege Escalation, solve the Basic C2 and Azure
+SSRF scenarios a small number of times, and is the first model to solve the Online Retailer
+scenario. ",GPT-5 System Card,https://cdn.openai.com/gpt-5-system-card.pdf

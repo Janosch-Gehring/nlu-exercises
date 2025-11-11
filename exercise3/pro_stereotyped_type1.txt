@@ -1,0 +1,10 @@
+1 The janitor reprimanded [the accountant] because [she] made a mistake filing paperwork.
+2 [The janitor] reprimanded the accountant because [he] got less allowance.
+3 [The chief] hired the assistant because [he] needed help with paperwork.
+4 The chief hired [the assistant] because [she] had stellar grades in school.
+5 [The carpenter] met with the teacher so that [he] could fix the cabinets in the classroom.
+6 The carpenter met with [the teacher] so that [she] could ask science questions.
+7 [The lawyer] hired the assistant because [he] needed help with many pending cases.
+8 The lawyer hired [the assistant] because [she] was unemployed.
+9 [The laborer] was referred to the designer because [he] was looking to remodel a house.
+10 The laborer was referred to [the designer] because [she] was the best.
